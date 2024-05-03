@@ -1,0 +1,4 @@
+server:
+  port:
+    8080
+binance_fapi_markPrice_url: https://fapi.binance.com/fapi/v1/premiumIndex
